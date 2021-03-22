@@ -1,8 +1,8 @@
 # Hello! 🙌  
 I'm John, an aspiring software engineer and CS undergrad!  
 
-<a>
-    <img src="/assets/wave.gif" align="center"/> 
+<a align="center">
+    <img src="/assets/wave.gif" /> 
 </a>
   
 ### You can find my relevant work links below:  
