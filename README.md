@@ -67,5 +67,5 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 <p align="center" href="https://github.com/jnddao?tab=repositories">
     I'm still a bit new to this so please be nice :) <br /><br />
     <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs"/><br /><br />
-    <img src="https://komarev.com/ghpvc/?username=jnddao"/>
+    <img src="https://komarev.com/ghpvc/?username=jnddao&color=grey"/>
 </p>
