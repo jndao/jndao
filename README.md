@@ -1,7 +1,7 @@
 # Hello! 🙌  
 I'm John, an aspiring software engineer and CS undergrad!  
 
-You can find my relevant work links below:  
+### You can find my relevant work links below:  
 
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
     <img src="/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
@@ -12,7 +12,7 @@ You can find my relevant work links below:
 </a>
 &nbsp;
   
-### Some languages and tools I'm familiar with!  
+### Some languages and tools I'm familiar with:  
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
     <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
 </a>
@@ -42,6 +42,8 @@ You can find my relevant work links below:
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
 &nbsp;
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnddao)](https://github.com/jnddao/github-readme-stats)
 
 ### Some things that I'm into doing:  
 - Coding 👨‍💻  
