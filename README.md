@@ -42,8 +42,10 @@ I'm John, an aspiring software engineer and CS undergrad!
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
 &nbsp;
+  
+  
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnddao)](https://github.com/jnddao/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnddao&show_icons=true&theme=cobalt)](https://github.com/jnddao/github-readme-stats)
 
 ### Some things that I'm into doing:  
 - Coding 👨‍💻  
