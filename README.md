@@ -4,7 +4,7 @@ I'm John, an aspiring software engineer and CS undergrad!
 You can find my relevant work links below:  
 
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
 </a>
 &nbsp;
 <a href="http://johndao.dev/" target="_blank">
@@ -18,32 +18,32 @@ You can find my relevant work links below:
   
 ### Some languages and tools I'm familiar with!  
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/java.png" align="left" height="32px" width="32px" alt="java"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/java.png" align="left" height="32px" width="32px" alt="java"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/javascript.png" align="left" height="32px" width="32px" alt="javascript"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/javascript.png" align="left" height="32px" width="32px" alt="javascript"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/react.png" align="left" height="32px" width="32px" alt="react"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/react.png" align="left" height="32px" width="32px" alt="react"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/htmlcss.png" align="left" height="32px" width="32px" alt="htmlcss"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/htmlcss.png" align="left" height="32px" width="32px" alt="htmlcss"/> 
 </a>
 &nbsp;
 </a>
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/vscode.png" align="left" height="32px" width="32px" alt="vscode"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/vscode.png" align="left" height="32px" width="32px" alt="vscode"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="https://github.com/jnddao/jnddao/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
+    <img src="https://github.com/jnddao/jnddao/tree/master/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
 &nbsp;
 
