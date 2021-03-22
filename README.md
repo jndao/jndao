@@ -6,7 +6,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 <p>
     <a href="https://github.com/jnddao?tab=repositories" >
-            <img src="/assets/github.gif" align="right" height="128px" width="128px"/> 
+            <img src="/assets/github.gif" align="right" height="512px" width="512px"/> 
     </a>
 </p>  
 
