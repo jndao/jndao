@@ -22,7 +22,7 @@ You can find my relevant work links below:
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/javascript.png" align="left" height="32px" width="32px" alt="javascript"/> 
+    <img src="/assets/js.png" align="left" height="32px" width="32px" alt="js"/> 
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
