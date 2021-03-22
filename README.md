@@ -4,6 +4,12 @@ I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/compu
 <br/>
 Thanks for taking a look at my relatively new profile. It wasn't too long ago that I started coding and I hope that I'll be able to expand my work further! 
 
+<p>
+    <a href="https://github.com/jnddao?tab=repositories">
+            <img src="/assets/github.gif" align="right"/> 
+    </a>
+</p>  
+
 ### You can find my relevant work links below:  
 
 <p>
@@ -15,11 +21,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
         <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
     </a>
 </p>
-<p>
-    <a href="https://github.com/jnddao?tab=repositories">
-            <img src="/assets/github.gif" align="right"/> 
-    </a>
-</p>  
+
 
 ### More about me!  
 
