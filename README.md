@@ -63,8 +63,9 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 <br /><br /><br /> 
 
-I'm still a bit new to this so please be nice :)
+
 <p align="center" href="https://github.com/jnddao?tab=repositories">
+    <div>I'm still a bit new to this so please be nice :)</div>
     <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs"/>
 </p>
 
