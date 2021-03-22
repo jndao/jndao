@@ -1,7 +1,9 @@
 # Hello! 🙌  
 I'm John, an aspiring software engineer and CS undergrad!  
 
-<iframe src="https://giphy.com/embed/c9ndlj2AUhaqk" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/c9ndlj2AUhaqk"></a></p>
+<a>
+    <img src="/assets/wave.gif" align="center" height="32px" width="32px" alt="python"/> 
+</a>
   
 ### You can find my relevant work links below:  
 
