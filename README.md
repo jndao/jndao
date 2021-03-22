@@ -10,7 +10,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     </a>
 </p>  
 
-### You can find my relevant work links below:  
+#### Reach me!:  
 
 <p>
     <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
@@ -22,8 +22,6 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     </a>
 </p>
 
-
-### More about me!  
 
 #### Some languages and tools I'm familiar with:  
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
@@ -54,7 +52,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
-<br /><br />
+<br /><br /><br />
 
 #### Some other things that I'm into doing (and links to some interesting stuff):  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
