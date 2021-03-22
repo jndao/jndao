@@ -1,4 +1,4 @@
-# Hello! <img src="/assets/wave.gif" height="25px" width="25px"/>
+# Hello! <img src="/assets/wave.gif" height="30px" width="30px"/>
  
 I'm John! I'd just like to say, welcome to my github profile!   
 I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering), a Student Ambassador and a Kitchen Hand/Cook!  
@@ -66,6 +66,6 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 <p align="center" href="https://github.com/jnddao?tab=repositories">
     I'm still a bit new to this so please be nice :) <br /><br />
-    <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs"/><br />
+    <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs"/><br /><br />
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnddao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
