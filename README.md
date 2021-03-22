@@ -54,7 +54,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
   
-<br /><br />
+<br /><br /><br />
 
 #### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
