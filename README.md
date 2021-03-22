@@ -54,9 +54,9 @@ I'm John, an aspiring software engineer and CS undergrad at [UNSW](https://www.u
 - Cooking 🍳  
 - Playing Basketball 🏀  
   
-<br /><br />
+<br />
 
-I'm still a bit new to this so please be nice :)  
+I'm still a bit new to this so please be nice :)  <br />
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs)](https://github.com/jnddao?tab=repositories)
 
 <a>
