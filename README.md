@@ -1,6 +1,8 @@
 # Hello! 🙌  
 I'm John, an aspiring software engineer and CS undergrad!  
 
+<iframe src="https://giphy.com/embed/c9ndlj2AUhaqk" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/c9ndlj2AUhaqk"></a></p>
+  
 ### You can find my relevant work links below:  
 
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
@@ -10,6 +12,7 @@ I'm John, an aspiring software engineer and CS undergrad!
 <a href="http://johndao.dev/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
 </a>
+&nbsp;
 &nbsp;
   
 ### More about me!  
