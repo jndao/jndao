@@ -48,7 +48,7 @@ I'm John, an aspiring software engineer and CS undergrad!
 - Cooking 🍳  
 - Playing Basketball 🏀  
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnddao&show_icons=true&theme=cobalt&count_private=true&hide=issues,prs,contribs)](https://github.com/jnddao?tab=repositories)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs)](https://github.com/jnddao?tab=repositories)
 
 <a>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnddao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
