@@ -54,7 +54,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 </a>
 <br /><br /><br />
 
-#### Some other things that I'm into doing (and links to some interesting stuff):  
+#### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
 - [Playing Basketball 🏀](https://en.wikipedia.org/wiki/Brian_Scalabrine)  
 - [Worrying about my online privacy 🕵️](https://github.com/bitwarden)
