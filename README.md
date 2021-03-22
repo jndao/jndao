@@ -53,6 +53,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
   
+<br /><br />
 
 #### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
@@ -62,9 +63,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 I'm still a bit new to this so please be nice :)  <br /><br />
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs)](https://github.com/jnddao?tab=repositories)
-  
 
-  
 <a>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnddao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
