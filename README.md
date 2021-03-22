@@ -12,7 +12,9 @@ I'm John, an aspiring software engineer and CS undergrad!
 </a>
 &nbsp;
   
-### Some languages and tools I'm familiar with:  
+### More about me!  
+
+#### Some languages and tools I'm familiar with:  
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
     <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
 </a>
@@ -43,7 +45,7 @@ I'm John, an aspiring software engineer and CS undergrad!
 </a>
 &nbsp;
 
-### Some things that I'm into doing:  
+#### Some things that I'm into doing:  
 - Coding 👨‍💻  
 - Cooking 🍳  
 - Playing Basketball 🏀  
