@@ -10,6 +10,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     </a>
 </p>  
 
+<p>
 #### Reach me!:  
 
 <p>
@@ -60,7 +61,8 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
 - [Playing Basketball 🏀](https://en.wikipedia.org/wiki/Brian_Scalabrine)  
 - [Worrying about my online privacy 🕵️](https://github.com/bitwarden)
-  
+
+</p>
 
 I'm still a bit new to this so please be nice :)  <br /><br />
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=cobalt&hide=issues,prs,contribs)](https://github.com/jnddao?tab=repositories)
