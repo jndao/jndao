@@ -1,7 +1,7 @@
 # Hello! 🙌  
-I'm John, an aspiring software engineer and CS undergrad!  
+I'm John, an aspiring software engineer and CS undergrad at UNSW!  
 
-<a align="center">
+<a href="https://github.com/jnddao?tab=repositories">
     <img src="/assets/wave.gif" /> 
 </a>
   
@@ -14,9 +14,8 @@ I'm John, an aspiring software engineer and CS undergrad!
 <a href="http://johndao.dev/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
 </a>
-&nbsp;
-&nbsp;
-  
+<br /><br /><br />
+
 ### More about me!  
 
 #### Some languages and tools I'm familiar with:  
@@ -49,6 +48,7 @@ I'm John, an aspiring software engineer and CS undergrad!
     <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
 </a>
 &nbsp;
+<br /><br />
 
 #### Some things that I'm into doing:  
 - Coding 👨‍💻  
