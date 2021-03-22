@@ -2,7 +2,7 @@
 I'm John, an aspiring software engineer and CS undergrad!  
 
 <a>
-    <img src="/assets/wave.gif" align="center" height="32px" width="32px" alt="python"/> 
+    <img src="/assets/wave.gif" align="center" height="512px" width="512px" alt="python"/> 
 </a>
   
 ### You can find my relevant work links below:  
