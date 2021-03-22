@@ -6,7 +6,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 
 <a href="https://github.com/jnddao?tab=repositories">
-    <img src="/assets/dance.gif" /> 
+    <img src="/assets/github.gif" /> 
 </a>
   
 ### You can find my relevant work links below:  
