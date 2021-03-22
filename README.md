@@ -19,7 +19,8 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     <a href="https://github.com/jnddao?tab=repositories">
             <img src="/assets/github.gif" align="right"/> 
     </a>
-</p>
+</p>  
+
 ### More about me!  
 
 #### Some languages and tools I'm familiar with:  
