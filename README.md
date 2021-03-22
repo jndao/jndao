@@ -1,4 +1,4 @@
-# Hello! <img src="/assets/wave.gif" align="left" height="25px" width="25px"/>
+# Hello! <img src="/assets/wave.gif" height="25px" width="25px"/>
  
 I'm John! I'd just like to say, welcome to my github profile!   
 I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering), a Student Ambassador and a Kitchen Hand/Cook!  
