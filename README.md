@@ -53,9 +53,9 @@ Thanks for looking at my relatively new profile. It wasn't too long ago that I s
 <br /><br />
 
 #### Some other things that I'm into doing (and links to some interesting stuff):  
-- Cooking [🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/) 
-- Playing Basketball [🏀](https://en.wikipedia.org/wiki/Brian_Scalabrine)  
-- Worrying about my online privacy [🕵️](https://github.com/bitwarden)
+- [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
+- [Playing Basketball 🏀](https://en.wikipedia.org/wiki/Brian_Scalabrine)  
+- [Worrying about my online privacy 🕵️](https://github.com/bitwarden)
   
 
 I'm still a bit new to this so please be nice :)  <br /><br />
