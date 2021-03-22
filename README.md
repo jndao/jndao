@@ -22,7 +22,8 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     </a>
 </p>
   
-  
+<br /><br />
+
 #### Some languages and tools I'm familiar with:  
 <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
     <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
