@@ -1,5 +1,5 @@
 # Hello! 🙌  
-I'm John, an aspiring software engineer and CS undergrad at [UNSW](https://www.unsw.edu.au/)!  
+I'm John, an aspiring software engineer and CS undergrad at <a href="https://www.unsw.edu.au/" target="_blank">UNSW!</a>
 
 <a href="https://github.com/jnddao?tab=repositories">
     <img src="/assets/wave.gif" /> 
