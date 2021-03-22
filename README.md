@@ -5,8 +5,8 @@ I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/compu
 Thanks for taking a look at my relatively new profile. It wasn't too long ago that I started coding and I hope that I'll be able to expand my work further! 
 
 <p>
-    <a href="https://github.com/jnddao?tab=repositories" height="64" width="64">
-            <img src="/assets/github.gif" align="right"/> 
+    <a href="https://github.com/jnddao?tab=repositories" >
+            <img src="/assets/github.gif" align="right" height="128px" width="128px"/> 
     </a>
 </p>  
 
