@@ -12,15 +12,13 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
 
 #### Reach me!:  
 
-<p>
-    <a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-        <img src="/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
-    </a>
-    &nbsp;
-    <a href="http://johndao.dev/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
+    <img src="/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
+</a>
+&nbsp;
+<a href="http://johndao.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
+</a>
   
 <br />
 
