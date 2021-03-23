@@ -19,7 +19,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
     </a>
     &nbsp;
     <a href="mailto:work@johndao.dev target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="Email me"/>
+        <img src="/assets/mail.png" padding="10px" align="left" height="32px" width="32px" alt="Email me"/>
     </a>
     &nbsp;
     <a href="http://johndao.dev/" target="_blank">
