@@ -18,7 +18,7 @@ Thanks for taking a look at my relatively new profile. It wasn't too long ago th
         <img src="/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
     </a>
     &nbsp;
-    <a href="mailto:work@johndao.dev target="_blank">
+    <a href="mailto:work@johndao.dev">
         <img src="/assets/mail.png" padding="10px" align="left" height="32px" width="32px" alt="Email me"/>
     </a>
     &nbsp;
