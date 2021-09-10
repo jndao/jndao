@@ -3,7 +3,7 @@
 I'm John! I'd just like to say, welcome to my github profile!   
 I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering), a Student Ambassador and a Kitchen Hand/Cook!  
 <br/>
-Thanks for taking a look at my relatively new profile. It wasn't too long ago that I started coding and I hope that I'll be able to expand my work further! 
+Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 
 <p>
     <a href="https://github.com/jnddao?tab=repositories" >
