@@ -26,19 +26,19 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 <br />
 
 ### Some languages and tools I'm familiar with:  
-  <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
+  <img src="/assets/python.png" height="32px" width="32px" alt="python"/> 
 &nbsp;
-  <img src="/assets/java.png" align="left" height="32px" width="32px" alt="java"/> 
+  <img src="/assets/java.png" height="32px" width="32px" alt="java"/> 
 &nbsp;
-  <img src="/assets/js.png" align="left" height="32px" width="32px" alt="js"/> 
+  <img src="/assets/js.png" height="32px" width="32px" alt="js"/> 
 &nbsp;
-  <img src="/assets/react.png" align="left" height="32px" width="32px" alt="react"/> 
+  <img src="/assets/react.png" height="32px" width="32px" alt="react"/> 
 &nbsp;
-  <img src="/assets/htmlcss.png" align="left" height="32px" width="32px" alt="htmlcss"/> 
+  <img src="/assets/htmlcss.png" height="32px" width="32px" alt="htmlcss"/> 
 &nbsp;
-  <img src="/assets/vscode.png" align="left" height="32px" width="32px" alt="vscode"/> 
+  <img src="/assets/vscode.png" height="32px" width="32px" alt="vscode"/> 
 &nbsp;
-  <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
+  <img src="/assets/git.png" height="32px" width="32px" alt="git"/> 
   
 <br /><br />
 
