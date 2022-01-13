@@ -1,9 +1,9 @@
 # Hello! <img src="/assets/wave.gif" height="25px" width="30px"/>
  
 I'm John! I'd just like to say, welcome to my github profile!   
-I am currently a CS undergrad @ [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering), a Student Ambassador and a Kitchen Hand/Cook!  
+I am a recent CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) and an avlid cook!  
 <br/>
-Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
+Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.  
 
 <p>
     <a href="https://github.com/jnddao?tab=repositories" >
@@ -18,7 +18,7 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
         <img src="/assets/linkedinLogo.png" align="left" height="32px" width="32px" alt="My Linkedin"/> 
     </a>
     &nbsp;
-    <a href="http://johndao.dev/" target="_blank">
+    <a href="http://johndao.com/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
     </a>
 </p>
