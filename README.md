@@ -26,19 +26,19 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 <br />
 
 ### Some languages and tools I'm familiar with:  
-  <img src="/assets/python.png" height="32px" width="32px" alt="python"/> 
+  <img src="/assets/python.png" height="32px" width="32px" alt="python" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/java.png" height="32px" width="32px" alt="java"/> 
+  <img src="/assets/java.png" height="32px" width="32px" alt="java" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/js.png" height="32px" width="32px" alt="js"/> 
+  <img src="/assets/js.png" height="32px" width="32px" alt="js" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/react.png" height="32px" width="32px" alt="react"/> 
+  <img src="/assets/react.png" height="32px" width="32px" alt="react" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/htmlcss.png" height="32px" width="32px" alt="htmlcss"/> 
+  <img src="/assets/htmlcss.png" height="32px" width="32px" alt="htmlcss" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/vscode.png" height="32px" width="32px" alt="vscode"/> 
+  <img src="/assets/vscode.png" height="32px" width="32px" alt="vscode" style={{display: 'inline-block'}} /> 
 &nbsp;
-  <img src="/assets/git.png" height="32px" width="32px" alt="git"/> 
+  <img src="/assets/git.png" height="32px" width="32px" alt="git" style={{display: 'inline-block'}} /> 
   
 <br /><br />
 
