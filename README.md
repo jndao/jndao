@@ -1,7 +1,7 @@
 # Hello! <img src="/assets/wave.gif" height="25px" width="30px"/>
  
-I'm John! I'd just like to say, welcome to my github profile!   
-I am a recent CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) and an avlid cook!  
+I'm John! I'd just like to say, welcome to my profile!   
+I am a recent CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) and an avid cook!  
 <br/>
 Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.  
 
@@ -26,41 +26,26 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 <br />
 
 ### Some languages and tools I'm familiar with:  
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
-</a>
+  <img src="/assets/python.png" align="left" height="32px" width="32px" alt="python"/> 
 &nbsp;
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/java.png" align="left" height="32px" width="32px" alt="java"/> 
-</a>
+  <img src="/assets/java.png" align="left" height="32px" width="32px" alt="java"/> 
 &nbsp;
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/js.png" align="left" height="32px" width="32px" alt="js"/> 
-</a>
+  <img src="/assets/js.png" align="left" height="32px" width="32px" alt="js"/> 
 &nbsp;
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/react.png" align="left" height="32px" width="32px" alt="react"/> 
-</a>
+  <img src="/assets/react.png" align="left" height="32px" width="32px" alt="react"/> 
 &nbsp;
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/htmlcss.png" align="left" height="32px" width="32px" alt="htmlcss"/> 
-</a>
+  <img src="/assets/htmlcss.png" align="left" height="32px" width="32px" alt="htmlcss"/> 
 &nbsp;
-</a>
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/vscode.png" align="left" height="32px" width="32px" alt="vscode"/> 
-</a>
+  <img src="/assets/vscode.png" align="left" height="32px" width="32px" alt="vscode"/> 
 &nbsp;
-<a href="https://www.linkedin.com/in/john-dao/" target="_blank">
-    <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
-</a>
+  <img src="/assets/git.png" align="left" height="32px" width="32px" alt="git"/> 
   
 <br /><br />
 
 ### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
 - [Playing Basketball 🏀](https://en.wikipedia.org/wiki/Brian_Scalabrine)  
-- [Worrying about my online privacy 🕵️](https://github.com/bitwarden)
+- [Worrying about my online privacy and security 🕵️](https://github.com/bitwarden)
 
 <br /><br />
 
