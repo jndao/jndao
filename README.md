@@ -22,8 +22,6 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
         <img src="https://avatars.githubusercontent.com/u/51881944?s=460&u=de2399451ba977dac0ac42f3539e945104733bb2&v=4" padding="10px" align="left" height="32px" width="32px" alt="My Website"/>
     </a>
 </p>
-  
-<br />
 
 ### Some languages and tools I'm familiar with:  
 <p float="left">
