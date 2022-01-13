@@ -41,7 +41,6 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 &nbsp;
   <img src="/assets/git.png" height="32px" width="32px" alt="git" /> 
 </p>
-<br /><br />
 
 ### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
