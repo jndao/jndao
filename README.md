@@ -48,6 +48,6 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 <br /><br />
 
 <p align="center" href="https://github.com/jnddao?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=dark&hide=prs,contribs"/><br /><br />
+    <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=dark"/><br /><br />
     <img src="https://komarev.com/ghpvc/?username=jnddao&color=grey"/>
 </p>
