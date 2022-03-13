@@ -1,25 +1,9 @@
 # Hello! <img src="/assets/wave.gif" height="25px" width="30px"/>
  
 I'm John! I'd just like to say, welcome to my profile!   
-I am a recent CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) and an avid cook!  
+I am a recent CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) currently working as at Deloitte as a Graduate.
 <br/>
 Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.  
-
-<p>
-    <a href="https://github.com/jnddao?tab=repositories" >
-            <img src="/assets/github.gif" align="right" height="384px" width="384px"/> 
-    </a>
-</p>  
-
-### What I've been writing about lately:
-
-<!--START_SECTION:feed-->
-* [How to survive university](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-survive-university)
-* [How to build an Image Classifier with React](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-build-an-image-classifier-with-react)
-* [UNSW Course Reviews and Suggestions](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;unsw-course-reviews-and-suggestions)
-* [How to get internships and graduate jobs](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-get-internships-and-graduate-jobs)
-* [Task Master](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;task-master)
-<!--END_SECTION:feed-->
 
 ### Reach me!:  
 
@@ -33,22 +17,15 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
     </a>
 </p>
 
-### Some languages and tools I'm familiar with:  
-<p float="left">
-  <img src="/assets/python.png" height="32px" width="32px" alt="python" /> 
-&nbsp;
-  <img src="/assets/java.png" height="32px" width="32px" alt="java" /> 
-&nbsp;
-  <img src="/assets/js.png" height="32px" width="32px" alt="js" /> 
-&nbsp;
-  <img src="/assets/react.png" height="32px" width="32px" alt="react" /> 
-&nbsp;
-  <img src="/assets/htmlcss.png" height="32px" width="32px" alt="htmlcss" /> 
-&nbsp;
-  <img src="/assets/vscode.png" height="32px" width="32px" alt="vscode" /> 
-&nbsp;
-  <img src="/assets/git.png" height="32px" width="32px" alt="git" /> 
-</p>
+### What I've been writing about lately:
+
+<!--START_SECTION:feed-->
+* [How to survive university](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-survive-university)
+* [How to build an Image Classifier with React](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-build-an-image-classifier-with-react)
+* [UNSW Course Reviews and Suggestions](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;unsw-course-reviews-and-suggestions)
+* [How to get internships and graduate jobs](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-get-internships-and-graduate-jobs)
+* [Task Master](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;task-master)
+<!--END_SECTION:feed-->
 
 ### Other things I'm into:  
 - [Cooking 🍳](https://www.reddit.com/r/AskReddit/comments/chzskb/firefighters_of_reddit_whats_the_easiest_way_to/)
