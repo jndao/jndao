@@ -14,7 +14,11 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
 ### What I've been writing about lately:
 
 <!--START_SECTION:feed-->
-...
+* [How to survive university](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-survive-university)
+* [How to build an Image Classifier with React](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-build-an-image-classifier-with-react)
+* [UNSW Course Reviews and Suggestions](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;unsw-course-reviews-and-suggestions)
+* [How to get internships and graduate jobs](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-get-internships-and-graduate-jobs)
+* [Task Master](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;task-master)
 <!--END_SECTION:feed-->
 
 ### Reach me!:  
