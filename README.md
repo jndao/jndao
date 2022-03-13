@@ -11,6 +11,12 @@ Thanks for coming by! Feel free to reach out to me, even if it's for a chat ☕.
     </a>
 </p>  
 
+### What I've been writing about lately:
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 ### Reach me!:  
 
 <p>
