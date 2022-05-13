@@ -55,5 +55,5 @@ I am a CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-
 </p>
 
 <p align="center" href="https://github.com/jnddao?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Jnddao&count_private=true&show_icons=true&theme=dark"/><br /><br />
+  <img src = "https://github-readme-stats.vercel.app/api?username=Jndao&count_private=true&show_icons=true&theme=dark"/><br /><br />
 </p>
