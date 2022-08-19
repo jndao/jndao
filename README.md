@@ -1,7 +1,7 @@
 <h1>Hello! <img alt='wave' src="/assets/wave.gif" height="25px" width="30px"/></h3/>
  
 I'm John! Welcome to my profile!   
-I am a CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) currently working at Deloitte as a Graduate 🚀. Feel free to reach out to me, even if it's for a chat ☕.  
+I am a CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-and-engineering) currently working at AWS as a Software Engineer. Feel free to reach out to me, even if it's for a chat ☕.  
 
 <h3>Reach me!:</h3>
 
