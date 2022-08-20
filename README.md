@@ -37,11 +37,11 @@ I am a CS grad from [UNSW](https://www.unsw.edu.au/engineering/computer-science-
 <h3>What I've been writing about lately:</h3>
 
 <!--START_SECTION:feed-->
+* [The Leetcode Experience](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;the-leetcode-experience)
 * [How to survive university](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-survive-university)
 * [How to build an Image Classifier with React](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-build-an-image-classifier-with-react)
 * [UNSW course reviews and suggestions](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;unsw-course-reviews-and-suggestions)
 * [How to get internships and graduate jobs](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-get-internships-and-graduate-jobs)
-* [Task Master](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;task-master)
 <!--END_SECTION:feed-->
 
 
