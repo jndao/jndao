@@ -18,9 +18,9 @@ Feel free to reach out to me, even if it's for a chat ☕.
 <h3>What I've been writing about lately 🖊️</h3>
 
 <!--START_SECTION:feed-->
-* [Joining Amazon](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;joining-amazon)
 * [Career resources for those in tech](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;career-resources-for-those-in-tech)
 * [Moving to Proton](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;moving-to-proton)
 * [The Leetcode experience](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;the-leetcode-experience)
 * [How to survive university](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;how-to-survive-university)
+* [UNSW course reviews and suggestions](https:&#x2F;&#x2F;johndao.com&#x2F;blog&#x2F;unsw-course-reviews-and-suggestions)
 <!--END_SECTION:feed-->
